@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Justin Kurt Tin | Grade 10 - Newton</title>
+    <title>Justin Kurt Tin | 10 - Newton</title>
     <link>https://justinktn.github.io/</link>
-    <description>Recent content on Justin Kurt Tin | Grade 10 - Newton</description>
+    <description>Recent content on Justin Kurt Tin | 10 - Newton</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 27 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://justinktn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 03 Feb 2023 03:21:28 +0800</lastBuildDate><atom:link href="https://justinktn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BLOG #3: Exploring ChatGPT</title>
+      <link>https://justinktn.github.io/posts/2022/exploring-chatgpt/</link>
+      <pubDate>Fri, 03 Feb 2023 03:21:28 +0800</pubDate>
+      
+      <guid>https://justinktn.github.io/posts/2022/exploring-chatgpt/</guid>
+      <description>&amp;ldquo;ChatGPT: Optimizing Language Models for Dialogue&amp;rdquo; - OpenAI What is ChatGPT?
+The ability to predict how words will be connected in meaningful ways is what allows chatbots like ChatGPT to function. They have access to a huge vocabulary and knowledge base and are very excellent at contextual word understanding. Through the use of encyclopedic information, they may replicate speech patterns due to this.
+OpenAI has admitted this, however, stating that &amp;ldquo;ChatGPT occasionally writes plausible-sounding but wrong or illogical answers&amp;rdquo; that is why we should not take it&amp;rsquo;s response in a serious matter especially in professional cases.</description>
+    </item>
+    
     <item>
       <title>BLOG #2: The Climate Crisis Network</title>
       <link>https://justinktn.github.io/posts/2022/climate-crisis-network/</link>
